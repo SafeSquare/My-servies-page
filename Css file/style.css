@@ -247,7 +247,7 @@ a {
 }
 
 .finsweet-ratings p {
-  color: #1E1B1B;
+  color: black;
   opacity: 0.7;
 }
 
@@ -255,7 +255,7 @@ a {
   background-color: #1e1b1b;
   opacity: 0.98;
   min-height: 60vh;
-  color: #fff;
+  color: #ffffff;
   padding: 80px 0px;
 }
 
@@ -284,22 +284,21 @@ a {
 .last-section-right .text {
   font-size: 12px;
   font-weight: 500;
-  color: #fff;
+  color: #ffffff;
   opacity: 0.6;
 }
 
 .last-section-right .number {
   font-size: 16px;
   font-weight: 600;
-  color: #fff;
+  color: #ffffff;
   padding-top: 10px;
   padding-bottom: 30px;
 }
 
-/* TAIL FOOTER */
 footer {
   background-color: #000;
-  color: #fff;
+  color: #ffffff;
   min-height: 20vh;
   padding: 40px 0px;
 }
@@ -330,11 +329,11 @@ footer {
 
 .footer-navigation ul a {
   text-decoration: none;
-  color: #fff;
+  color: #ffffff;
 }
 
 .copyright {
-  color: #939191;
+  color: gray;
   font-size: 12px;
 }
 
