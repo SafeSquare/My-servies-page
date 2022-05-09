@@ -297,7 +297,7 @@ a {
 }
 
 footer {
-  background-color: #000;
+  background-color: black;
   color: #ffffff;
   min-height: 20vh;
   padding: 40px 0px;
@@ -335,6 +335,10 @@ footer {
 .copyright {
   color: gray;
   font-size: 12px;
+}
+
+.last-section .container {
+  
 }
 
 
